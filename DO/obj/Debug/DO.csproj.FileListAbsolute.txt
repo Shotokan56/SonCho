@@ -1,0 +1,15 @@
+C:\Users\MinhQuang\Desktop\SonCho2\SonCho\DO\bin\Debug\DO.dll
+C:\Users\MinhQuang\Desktop\SonCho2\SonCho\DO\bin\Debug\DO.pdb
+C:\Users\MinhQuang\Desktop\SonCho2\SonCho\DO\obj\Debug\DO.dll
+C:\Users\MinhQuang\Desktop\SonCho2\SonCho\DO\obj\Debug\DO.pdb
+C:\Users\MinhQuang\Desktop\SonCho2\SonCho\DO\obj\Debug\DO.csprojResolveAssemblyReference.cache
+E:\PROJECT\SonCho\DO\bin\Debug\DO.dll
+E:\PROJECT\SonCho\DO\bin\Debug\DO.pdb
+E:\PROJECT\SonCho\DO\obj\Debug\DO.csprojResolveAssemblyReference.cache
+E:\PROJECT\SonCho\DO\obj\Debug\DO.dll
+E:\PROJECT\SonCho\DO\obj\Debug\DO.pdb
+C:\Users\MinhQuang\Desktop\SonCho\DO\bin\Debug\DO.dll
+C:\Users\MinhQuang\Desktop\SonCho\DO\bin\Debug\DO.pdb
+C:\Users\MinhQuang\Desktop\SonCho\DO\obj\Debug\DO.dll
+C:\Users\MinhQuang\Desktop\SonCho\DO\obj\Debug\DO.pdb
+C:\Users\MinhQuang\Desktop\SonCho\DO\obj\Debug\DO.csprojResolveAssemblyReference.cache
